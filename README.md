@@ -70,9 +70,8 @@ My focus is on **Explainability in Medical AI**.
 ---
 
 ## 🔮 Future Vision  
-AI-assisted prescription generation with **LLM reasoning** to support doctors in making faster, evidence-based, and explainable decisions.  
+AI-assisted prescription generation with **LLM reasoning** to support doctors of every field (not just chronic kidney disease) in making faster, evidence-based, and explainable decisions.  
 
-📷 **AI-assisted Prescription Vision**  
-![Prescription Workflow](8a98f927-8a65-41d2-94d2-b3c1626b82ce.png)  
+
 
 ---
