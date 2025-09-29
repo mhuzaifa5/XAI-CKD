@@ -1,6 +1,6 @@
 # XAI-CKD
-Explainable AI for Chronic Kidney Disease Prediction via Fine-Tuned LLMs
-# Fine-Tuning Large Language Models for Chronic Kidney Disease Prediction  
+# Project 1 : Explainable AI for Chronic Kidney Disease Prediction via Fine-Tuned LLMs (Resource Efficient)
+# Project 2: Fine-Tuning Large Language Models for Chronic Kidney Disease Prediction and Prescription (Resource Intensive)
 *A Benchmark Against ML and Deep Learning Models*  
 
 ---
