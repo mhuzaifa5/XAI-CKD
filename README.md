@@ -32,7 +32,7 @@ Both approaches aim to improve **explainability** and **clinician trust** in AI-
 - Minimal GPU/compute needed.  
 
 📊 **Project 1 Workflow**  
-![Resource Efficient Workflow](8a98f927-8a65-41d2-94d2-b3c1626b82ce.png)  
+![Resource Efficient Workflow](Research_Project_01_Workflow.png)  
 
 ---
 
@@ -44,7 +44,7 @@ Both approaches aim to improve **explainability** and **clinician trust** in AI-
 - Requires **high compute resources** (GPUs, large memory).  
 
 📊 **Project 2 Workflow**  
-![Resource Intensive Workflow](7cd7a2b1-d572-456d-be69-854ea6ea5ee3.jpg)  
+![Resource Intensive Workflow](Research_Project02_Workflow.png)  
 
 ---
 
