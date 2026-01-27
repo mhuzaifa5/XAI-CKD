@@ -15,7 +15,7 @@ The framework integrates structured clinical data into a language-based reasonin
 2. **PEFT Fine-Tuning:** Applying LoRA/QLoRA to medical LLMs (e.g., Llama-3-8B or similar architectures).
 3. **Inference:** Generating a diagnostic label (CKD/Non-CKD) alongside a patient-specific explanation.
 
-![Paper Architecture](Paper%20Architecture%20(1).jpg)
+![Paper Architecture](Paper Architecture.jpg)
 
 ---
 
