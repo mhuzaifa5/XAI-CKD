@@ -15,7 +15,7 @@ The framework integrates structured clinical data into a language-based reasonin
 2. **PEFT Fine-Tuning:** Applying LoRA/QLoRA to medical LLMs (e.g., Llama-3-8B or similar architectures).
 3. **Inference:** Generating a diagnostic label (CKD/Non-CKD) alongside a patient-specific explanation.
 
-![Paper Architecture](Paper Architecture.jpg)
+![Paper Architecture](Paper Architecture.png)
 
 ---
 
@@ -25,19 +25,19 @@ We benchmarked our fine-tuned LLM against a Random Forest baseline across three 
 ### Performance Metrics
 Our results indicate that LLMs achieve comparable classification performance to traditional ensemble methods, particularly on smaller datasets, while offering superior usability through text-based reasoning.
 
-![Evaluation Metrics](Evaluation_metrics.jpg)
+![Evaluation Metrics](Evaluation_metrics.png)
 
 ### Confusion Matrix
 The following matrix demonstrates the model's accuracy and error rates in a binary classification setting (CKD vs. Healthy).
 
-![Confusion Matrix](connfusion_marix.png)
+![Confusion Matrix](connfusion_matrix.png)
 
 ---
 
 ## 💡 Explainability (XAI)
 A key contribution of this work is the transition from technical feature-importance plots to **Natural Language Explanations**. This allows healthcare providers to see the reasoning behind a diagnosis directly.
 
-![Explainability](explainability.jpg)
+![Explainability](explainability.png)
 
 
 
