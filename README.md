@@ -15,7 +15,7 @@ The framework integrates structured clinical data into a language-based reasonin
 2. **PEFT Fine-Tuning:** Applying LoRA/QLoRA to medical LLMs (e.g., Llama-3-8B or similar architectures).
 3. **Inference:** Generating a diagnostic label (CKD/Non-CKD) alongside a patient-specific explanation.
 
-![Paper Architecture](Paper Architecture.png)
+![Paper Architecture](Paper_Architecture.png)
 
 ---
 
@@ -30,7 +30,7 @@ Our results indicate that LLMs achieve comparable classification performance to 
 ### Confusion Matrix
 The following matrix demonstrates the model's accuracy and error rates in a binary classification setting (CKD vs. Healthy).
 
-![Confusion Matrix](connfusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
